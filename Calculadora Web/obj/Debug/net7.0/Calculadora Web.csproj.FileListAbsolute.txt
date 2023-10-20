@@ -1,0 +1,33 @@
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\appsettings.json
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Calculadora Web.exe
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Calculadora Web.deps.json
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Calculadora Web.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Calculadora Web.dll
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Calculadora Web.pdb
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\staticwebassets\msbuild.Calculadora Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Calculadora Web.props
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Calculadora Web.props
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Calculadora Web.props
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\scopedcss\bundle\Calculadora Web.styles.css
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.csproj.CopyComplete
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.dll
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\refint\Calculadora Web.dll
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.pdb
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\Calculadora Web.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Gustavo\C#\Calculadora Web\obj\Debug\net7.0\ref\Calculadora Web.dll
